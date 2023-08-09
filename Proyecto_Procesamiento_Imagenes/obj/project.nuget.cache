@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "UXrwviGQyEQLajQn1H0xUsj0aRXeI5T3qyXU5i289U7kLabF2cRb56NUkbwYkDeuCyupv0qc+0KhxJ/XSrl9SQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ingri\\Downloads\\PDI (1)\\PDI (1)\\PDI\\Proyecto_Procesamiento_Imagenes\\Proyecto_Procesamiento_Imagenes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ingri\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
+    "C:\\Users\\ingri\\.nuget\\packages\\aforge.video\\2.2.5\\aforge.video.2.2.5.nupkg.sha512",
+    "C:\\Users\\ingri\\.nuget\\packages\\aforge.video.directshow\\2.2.5\\aforge.video.directshow.2.2.5.nupkg.sha512",
+    "C:\\Users\\ingri\\.nuget\\packages\\emgu.cv\\4.1.1.3497\\emgu.cv.4.1.1.3497.nupkg.sha512",
+    "C:\\Users\\ingri\\.nuget\\packages\\emgu.cv.runtime.windows\\4.5.5.4823\\emgu.cv.runtime.windows.4.5.5.4823.nupkg.sha512",
+    "C:\\Users\\ingri\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.x64\\19.29.30138\\emgu.runtime.windows.msvc.rt.x64.19.29.30138.nupkg.sha512",
+    "C:\\Users\\ingri\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.x86\\19.29.30138\\emgu.runtime.windows.msvc.rt.x86.19.29.30138.nupkg.sha512",
+    "C:\\Users\\ingri\\.nuget\\packages\\fontawesome.sharp\\5.15.4\\fontawesome.sharp.5.15.4.nupkg.sha512",
+    "C:\\Users\\ingri\\.nuget\\packages\\zedgraph\\5.1.7\\zedgraph.5.1.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Degradación del paquete detectada: Emgu.CV de 4.5.5.4823 a 4.1.1.3497. Haga referencia al paquete directamente desde el proyecto para seleccionar una versión diferente. \r\n Proyecto_Procesamiento_Imagenes -> Emgu.CV.runtime.windows 4.5.5.4823 -> Emgu.CV (>= 4.5.5.4823) \r\n Proyecto_Procesamiento_Imagenes -> EMGU.CV (>= 4.1.1.3497)",
+      "libraryId": "Emgu.CV",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2",
+        ".NETFramework,Version=v4.7.2/win",
+        ".NETFramework,Version=v4.7.2/win-x64",
+        ".NETFramework,Version=v4.7.2/win-x86"
+      ]
+    }
+  ]
+}

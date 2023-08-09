@@ -1,0 +1,230 @@
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\Proyecto_Procesamiento_Imagenes.exe.config
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\Proyecto_Procesamiento_Imagenes.exe
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\Proyecto_Procesamiento_Imagenes.pdb
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.csproj.AssemblyReference.cache
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.csproj.SuggestedBindingRedirects.cache
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Form1.resources
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Properties.Resources.resources
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.csproj.GenerateResource.cache
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.exe
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.pdb
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\AForge.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\AForge.Video.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.csproj.CopyComplete
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Ventanas.Form_Camara.resources
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Ventanas.Form_Imagen.resources
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Ventanas.Form_Video.resources
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\x64\concrt140.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\x64\cvextern.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\x64\msvcp140.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\x64\vcruntime140.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\x86\concrt140.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\x86\cvextern.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\x86\msvcp140.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\x86\vcruntime140.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\Emgu.CV.UI.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\Emgu.CV.World.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\ZedGraph.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\OMEN\Documents\Semestres FCFM\Octavo Semestre\Procesamiento de Imagenes\Proyecto_Procesamiento_Imagenes\Proyecto_Procesamiento_Imagenes\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\x64\concrt140.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\x64\cvextern.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\x64\msvcp140.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\x64\vcruntime140.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\x86\concrt140.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\x86\cvextern.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\x86\msvcp140.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\x86\vcruntime140.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\Proyecto_Procesamiento_Imagenes.exe.config
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\Proyecto_Procesamiento_Imagenes.exe
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\Proyecto_Procesamiento_Imagenes.pdb
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\AForge.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\AForge.Video.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\Emgu.CV.World.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\ZedGraph.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.csprojAssemblyReference.cache
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Form1.resources
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Properties.Resources.resources
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Ventanas.Form_Camara.resources
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Ventanas.Form_Imagen.resources
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Ventanas.Form_Video.resources
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.csproj.GenerateResource.cache
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.csproj.CoreCompileInputs.cache
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.csproj.CopyComplete
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.exe
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.pdb
+C:\Users\ingri\Downloads\Procesamiento-de-Imagenes-main\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Ventanas.Form_Manual.resources
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\x64\concrt140.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\x64\cvextern.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\x64\msvcp140.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\x64\vcruntime140.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\x86\concrt140.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\x86\cvextern.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\x86\msvcp140.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\x86\vcruntime140.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\Proyecto_Procesamiento_Imagenes.exe.config
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\Proyecto_Procesamiento_Imagenes.exe
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\Proyecto_Procesamiento_Imagenes.pdb
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\AForge.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\AForge.Video.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\Emgu.CV.World.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\ZedGraph.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.csprojAssemblyReference.cache
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Form1.resources
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Properties.Resources.resources
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Ventanas.Form_Camara.resources
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Ventanas.Form_Imagen.resources
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Ventanas.Form_Manual.resources
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Ventanas.Form_Video.resources
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.csproj.GenerateResource.cache
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.csproj.CoreCompileInputs.cache
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.csproj.CopyComplete
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.exe
+C:\Users\ingri\OneDrive\Desktop\Procesamiento-de-Imagenes-main\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.pdb
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\x64\concrt140.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\x64\cvextern.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\x64\msvcp140.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\x64\vcruntime140.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\x86\concrt140.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\x86\cvextern.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\x86\msvcp140.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\x86\vcruntime140.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\Proyecto_Procesamiento_Imagenes.exe.config
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\Proyecto_Procesamiento_Imagenes.exe
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\Proyecto_Procesamiento_Imagenes.pdb
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\AForge.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\AForge.Video.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\Emgu.CV.World.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\ZedGraph.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.csprojAssemblyReference.cache
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Form1.resources
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Properties.Resources.resources
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Ventanas.Form_Camara.resources
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Ventanas.Form_Imagen.resources
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Ventanas.Form_Manual.resources
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Ventanas.Form_Video.resources
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.csproj.GenerateResource.cache
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.csproj.CoreCompileInputs.cache
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.csproj.CopyComplete
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.exe
+C:\Users\ingri\OneDrive\Desktop\PDI\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.pdb
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\x64\concrt140.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\x64\cvextern.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\x64\msvcp140.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\x64\vcruntime140.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\x86\concrt140.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\x86\cvextern.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\x86\msvcp140.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\x86\vcruntime140.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\Proyecto_Procesamiento_Imagenes.exe.config
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\Proyecto_Procesamiento_Imagenes.exe
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\Proyecto_Procesamiento_Imagenes.pdb
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\AForge.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\AForge.Video.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\Emgu.CV.World.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\ZedGraph.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.csproj.AssemblyReference.cache
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Form1.resources
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Properties.Resources.resources
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Ventanas.Form_Camara.resources
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Ventanas.Form_Imagen.resources
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Ventanas.Form_Manual.resources
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.Ventanas.Form_Video.resources
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.csproj.GenerateResource.cache
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.csproj.CoreCompileInputs.cache
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.csproj.CopyComplete
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.exe
+C:\Users\ingri\Downloads\PDI (1)\PDI\Proyecto_Procesamiento_Imagenes\obj\Debug\Proyecto_Procesamiento_Imagenes.pdb

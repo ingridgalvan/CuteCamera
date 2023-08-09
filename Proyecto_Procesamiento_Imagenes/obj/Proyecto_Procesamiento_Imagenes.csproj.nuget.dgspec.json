@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ingri\\Downloads\\PDI (1)\\PDI (1)\\PDI\\Proyecto_Procesamiento_Imagenes\\Proyecto_Procesamiento_Imagenes.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ingri\\Downloads\\PDI (1)\\PDI (1)\\PDI\\Proyecto_Procesamiento_Imagenes\\Proyecto_Procesamiento_Imagenes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ingri\\Downloads\\PDI (1)\\PDI (1)\\PDI\\Proyecto_Procesamiento_Imagenes\\Proyecto_Procesamiento_Imagenes.csproj",
+        "projectName": "Proyecto_Procesamiento_Imagenes",
+        "projectPath": "C:\\Users\\ingri\\Downloads\\PDI (1)\\PDI (1)\\PDI\\Proyecto_Procesamiento_Imagenes\\Proyecto_Procesamiento_Imagenes.csproj",
+        "packagesPath": "C:\\Users\\ingri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ingri\\Downloads\\PDI (1)\\PDI (1)\\PDI\\Proyecto_Procesamiento_Imagenes\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ingri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "AForge.Video.DirectShow": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Emgu.CV": {
+              "target": "Package",
+              "version": "[4.1.1.3497, )"
+            },
+            "Emgu.CV.runtime.windows": {
+              "target": "Package",
+              "version": "[4.5.5.4823, )"
+            },
+            "FontAwesome.Sharp": {
+              "target": "Package",
+              "version": "[5.15.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
